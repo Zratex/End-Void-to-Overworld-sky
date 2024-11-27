@@ -8,7 +8,10 @@
         }
       }
     },
-    "title": "All kHorah_'s installed datapacks",
+    "title": {
+      "translate": "hora.adv.root.title",
+      "fallback": "All kHorah_'s installed datapacks"
+    },
     "description": "",
     "background": "minecraft:textures/block/white_concrete.png",
     "frame": "challenge",

@@ -4,11 +4,13 @@
       "id": "minecraft:ender_pearl"
     },
     "title": {
-      "translate": "End Void to Overworld"
+      "translate": "evo.adv.evo.title",
+      "fallback": "End Void to Overworld"
     },
     "description": [
       {
-        "translate": "§fWhen you fall into the §dEnd void§f, you will be teleported to the §asame §fcoordinates but at layer §6500"
+        "translate": "evo.adv.evo.desc",
+        "fallback": "§fWhen you fall into the §dEnd void§f, you will be teleported to the §asame §fcoordinates but at layer §6500"
       }
     ],
     "frame": "task",
