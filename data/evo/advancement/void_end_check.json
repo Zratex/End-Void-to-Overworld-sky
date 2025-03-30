@@ -18,6 +18,6 @@
     }
   },
   "rewards": {
-    "function": "end_void_to_overworld:tp_to_overworld"
+    "function": "evo:tp_to_overworld"
   }
 }
