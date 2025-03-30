@@ -13,7 +13,7 @@
       "fallback": "All kHorah_'s installed datapacks"
     },
     "description": "",
-    "background": "minecraft:textures/block/white_concrete.png",
+    "background": "minecraft:block/white_concrete",
     "frame": "challenge",
     "show_toast": false,
     "announce_to_chat": false,
