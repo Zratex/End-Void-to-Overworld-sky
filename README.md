@@ -18,6 +18,13 @@ This project is a fork from **Hora7694**'s work, and those updates were made by 
 - Find the Minecraft's datapack version of the Minecraft update you want to play along with : https://minecraft.wiki/w/Pack_format#List_of_data_pack_formats
 - Change the `"pack_format"` value in the `./pack.mcmeta` file according to the update you're looking for
 # Changelogs
+## v1.2.4
+- Dedicated logo
+## v1.2.3
+- Changed advancement icon
+- Added teleportation between overworld and the end
+- Ajusted the tp range to avoid soft-locking
+- Created an advancement dedecated for going through the overworld sky
 ## v1.2.2
 - Removed dedicated advancement tree 
 - Changes the height to 2500 blocks, so when you fall from the end you freefall until seing the cloud appearing beneath you
