@@ -16,7 +16,7 @@
     "announce_to_chat": true,
     "hidden": true
   },
-  "parent": "minecraft:end/kill_dragon",
+  "parent": "minecraft:end/root",
   "criteria": {
     "requirement": {
       "trigger": "minecraft:location",
