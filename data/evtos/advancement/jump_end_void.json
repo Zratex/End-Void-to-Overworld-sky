@@ -4,11 +4,11 @@
       "id": "minecraft:totem_of_undying"
     },
     "title": {
-      "translate": "mc.adv.evo.title",
+      "translate": "mc.adv.evtos.title",
       "fallback": "Take a leap of faith"
     },
     "description": {
-      "translate": "mc.adv.evo.desc",
+      "translate": "mc.adv.evtos.desc",
       "fallback": "Jump from the End islands"
     },
     "frame": "goal",

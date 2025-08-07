@@ -18,6 +18,6 @@
     }
   },
   "rewards": {
-    "function": "evo:tp_to_overworld"
+    "function": "evtos:tp_to_overworld"
   }
 }
