@@ -7,8 +7,8 @@
           "location": {
             "position": {
               "y": {
-                "min": -120,
-                "max": -10
+                "min": 2550,
+                "max": 10000
               }
             },
             "dimension": "minecraft:overworld"
