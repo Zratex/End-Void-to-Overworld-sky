@@ -19,7 +19,7 @@ This project is a fork from **Hora7694**'s work, and those updates were made by 
 - Change the `"pack_format"` value in the `./pack.mcmeta` file according to the update you're looking for
 # Changelogs
 ## v1.2.2
-- Advancement background color fixed
+- Removed dedicated advancement tree 
 - Changes the height to 2500 blocks, so when you fall from the end you freefall until seing the cloud appearing beneath you
 ## v1.2.1
 - Upgraded to 1.21.8
