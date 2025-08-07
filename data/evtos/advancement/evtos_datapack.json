@@ -18,7 +18,6 @@
     "announce_to_chat": false,
     "hidden": false
   },
-  "parent": "hora:root",
   "criteria": {
     "trigger": {
       "trigger": "minecraft:tick"
