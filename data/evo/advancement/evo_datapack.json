@@ -10,7 +10,7 @@
     "description": [
       {
         "translate": "evo.adv.evo.desc",
-        "fallback": "§fWhen you fall into the §dEnd void§f, you will be teleported to the §asame §fcoordinates but at layer §6500"
+        "fallback": "§fWhen you fall into the §dEnd void§f, you will be teleported to the §asame §fcoordinates but at layer §61000"
       }
     ],
     "frame": "task",
