@@ -11,7 +11,8 @@ This project is a fork from **Hora7694**'s work, and those updates were made by 
 ---
 ## Installation
 - Download this project in a zip file format
-- Place it within the `datapacks` folder of your save
+  - Make sure the project is store in the root of the zip file and not inside a sub-folder, otherwise Minecraft won't be able to recognize it
+- Place it within the `/datapacks/` folder of your save
 - Reload the datapacks (with the `/reload` command for example)
 ## How to use this datapack for other Minecraft updates
 - Find the Minecraft's datapack version of the Minecraft update you want to play along with : https://minecraft.wiki/w/Pack_format#List_of_data_pack_formats
@@ -19,7 +20,7 @@ This project is a fork from **Hora7694**'s work, and those updates were made by 
 # Changelogs
 ## v1.2.2
 - Advancement background color fixed
-- Changes the height to 2500 blocks
+- Changes the height to 2500 blocks, so when you fall from the end you freefall until seing the cloud appearing beneath you
 ## v1.2.1
 - Upgraded to 1.21.8
 - Addition of the README.md file
