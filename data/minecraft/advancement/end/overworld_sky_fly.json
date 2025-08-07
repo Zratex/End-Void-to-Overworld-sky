@@ -1,22 +1,22 @@
 {
   "display": {
     "icon": {
-      "id": "minecraft:feather"
+      "id": "minecraft:firework_rocket"
     },
     "title": {
       "translate": "mc.adv.evtos.title",
-      "fallback": "Take a leap of faith"
+      "fallback": "Shooting stars"
     },
     "description": {
       "translate": "mc.adv.evtos.desc",
-      "fallback": "Jump from the End islands"
+      "fallback": "Fly beyound the sky itself"
     },
-    "frame": "goal",
+    "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": true
   },
-  "parent": "minecraft:end/root",
+  "parent": "minecraft:end/jump_end_void",
   "criteria": {
     "requirement": {
       "trigger": "minecraft:location",
@@ -25,11 +25,11 @@
           "location": {
             "position": {
               "y": {
-                "min": -120,
-                "max": -50
+                "min": 2500,
+                "max": 10000
               }
             },
-            "dimension": "minecraft:the_end"
+            "dimension": "minecraft:overworld"
           }
         }
       }
