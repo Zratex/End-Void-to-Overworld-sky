@@ -7,6 +7,7 @@ Supported Minecraft Update : 1.21.8
 > Note that this datapack should **in theory** works on every Minecraft's datapack version starting from atleast v18
 
 This project is a fork from **Hora7694**'s work, and those updates were made by Zratey.
+
 ---
 ## Installation
 - Download this project in a zip file format
