@@ -1,5 +1,5 @@
 # End Void to Overworld Sky
-A Minecraft datapack where going through the End dimension lowest point teleports you in the Overworld dimension highest point. Also works on the other way.
+A Minecraft datapack where any entity going through the End dimension lowest point teleports you in the Overworld dimension highest point. Also works on the other way around.
 
 ![./pack.png](./pack.png)
 
@@ -18,8 +18,10 @@ This project is a fork from **Hora7694**'s work, and those updates were made by 
 - Find the Minecraft's datapack version of the Minecraft update you want to play along with : https://minecraft.wiki/w/Pack_format#List_of_data_pack_formats
 - Change the `"pack_format"` value in the `./pack.mcmeta` file according to the update you're looking for
 # Changelogs
-## v1.2.5
+## v1.2.6
 - Dedicated logo
+## v1.2.5
+Entities can now go through the end void towards the overworld sky. Should in theory works the other way, but was too lazy to test it.
 ## v1.2.4
 You may see v1.2.3 content in this update, because I literally forgot to push before doing the release
 ## v1.2.3
