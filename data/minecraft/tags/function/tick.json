@@ -1,3 +1,5 @@
 {
-        "values": ["evtos:tick_end_to_overworld"]
+    "values": [
+        "evtos:tick"
+    ]
 }
